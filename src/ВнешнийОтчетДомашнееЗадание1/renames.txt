@@ -1,4 +1,6 @@
 ﻿051e59d7-2164-46e2-a78b-4158c675dd9b-->und\051e59d7-2164-46e2-a78b-4158c675dd9b
+a50347f2-51a0-4968-bee2-7be21dffe901.0\info-->und\a50347f2-51a0-4968-bee2-7be21dffe901.0\info
+a50347f2-51a0-4968-bee2-7be21dffe901.0\text-->ObjectModule.bsl
 copyinfo-->und\copyinfo
 root-->und\root
 version-->und\version
